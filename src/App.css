@@ -1,0 +1,30 @@
+.Titulo{
+  color: midnightblue;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 350%;
+}
+.link1{
+  color: rgba(36, 135, 201, 0.897);
+  font-family: fantasy;
+  font-weight: 500;
+  font-size: xx-large;
+}
+.link2{
+  color: rgba(206, 7, 7, 0.897);
+  font-family: fantasy;
+  font-weight: 500;
+  font-size: xx-large;
+}
+.nav{
+  background-color: rgb(238, 235, 226);
+}
+.App{
+  background-color: rgb(212, 208, 194);
+}
+
+
+
+
+
+

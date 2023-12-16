@@ -1,0 +1,29 @@
+.card{
+   background-color: rgba(19, 8, 70, 0.945);
+   border-width: 10px; 
+   border-radius: 2em 2em;
+   width: 20em;
+   margin: 1em;
+}
+.card-title{
+    color: white;
+    text-align: center;
+}
+.span{
+    color: rgb(168, 152, 152);
+    text-align: justify;
+}
+.dados{
+    color: white;
+}
+.comandos{
+    display: flex;
+    margin: 2em;
+    justify-content: space-around;
+}
+.card-img-top{
+    padding: 20px;
+}
+a + button.btn{
+    margin-left: 1em;
+}

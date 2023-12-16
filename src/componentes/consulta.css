@@ -1,0 +1,13 @@
+.titulo{
+    font-family: fantasy;
+    color: rgb(202, 11, 11);
+    font-size: 250%;
+    text-align: center;
+    padding: 0.5em;
+    margin-bottom: 0;
+}
+.lista-livros{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
